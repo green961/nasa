@@ -107,6 +107,7 @@ function AddItemForm({ onNewItem }) {
                         className={submitting ? 'disabled' : ''}
                     >
                         {submitting ? 'Adding...' : 'Add Item'}
+                        {/* {submitting ? 'Fucking...' : 'Fuck Item'} */}
                     </Button>
                 </InputGroup.Append>
             </InputGroup>
