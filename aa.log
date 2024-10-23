@@ -5,3 +5,14 @@
   //   "semi": true,
   //   "singleQuote": true
   // },
+
+
+git remote set-url origin https://github.com/green961/nasa.git
+
+green961
+/
+nasa
+
+git add -A
+git commit -m "my commit"
+git push -u origin main
